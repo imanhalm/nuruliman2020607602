@@ -1,0 +1,70 @@
+<style>
+body {
+
+ margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: pink;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Change color on hover */
+.topnavbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+div.e {
+  background-color:A56C6C;
+ padding-top: 20px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  font-size: 300%;
+  color: white;
+}
+
+div.f {
+  font-size:70%;
+  text-align: justify;
+}
+
+div.g {
+  background-color: F3B6B6;
+ padding-top: 20px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  font-size: 300%;
+  color: white;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+</style>
